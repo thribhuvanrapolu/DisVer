@@ -9,7 +9,7 @@ import lightbulb
 dotenv.load_dotenv()
 
 bot = lightbulb.BotApp(
-    os.environ["BOT_TOKEN"],
+    token="OTM1MDQ3NDQ0MzE0NjE1ODM4.Ye48yw.JTghxc9CKH9Bw11Qmd_kaRkDtkY",
     prefix="+",
     banner=None,
     intents=hikari.Intents.ALL,
