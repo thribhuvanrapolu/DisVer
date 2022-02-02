@@ -50,7 +50,6 @@ pycairo==1.16.2
 pycares==4.1.2
 pycparser==2.21
 pycups==1.9.73
-PyGObject==3.36.0
 PyHamcrest==1.9.0
 PyJWT==1.7.1
 pymacaroons==0.13.0
